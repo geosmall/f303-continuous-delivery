@@ -1,6 +1,8 @@
 # f303-continuous-delivery
 
-Geo2: This is a test example demonstrating how to use Github Actions to build and flash firmware (on real hardware devices).
+See https://www.electronvector.com/blog/continuous-firmware-delivery-with-github-actions
+
+This is a test example demonstrating how to use Github Actions to build and flash firmware (on real hardware devices).
 
 For more details on how to flash devices with a Raspberry Pi, see https://www.electronvector.com.
 
